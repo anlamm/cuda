@@ -1,1 +1,1 @@
-# cuda
+DNA virus matching with GPU
